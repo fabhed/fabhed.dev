@@ -1,0 +1,16 @@
+html,
+body {
+  margin: 0;
+  /* Dark Theme  */
+  background-color: #1a1a1a;
+  color: #fff;
+}
+.container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+h1 {
+  font-size: 4rem;
+}
